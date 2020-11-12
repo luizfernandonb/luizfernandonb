@@ -20,4 +20,5 @@
 
 > "If you want to be successful, you need to have total dedication, look for your last limit and do your best." - Ayrton Senna
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![GitHub Badge](https://github-readme-stats.vercel.app/api?username=luizfernandonb)
