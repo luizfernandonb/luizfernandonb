@@ -7,8 +7,7 @@
 - Atualmente programo em C# e estou aprendendo aos poucos C++, e também pretendo seguir a carreira de back-end.
 - Tenho 17 anos
 
----
-"Se você quer ser bem sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si." - Ayrton Senna
+> "Se você quer ser bem sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si." - Ayrton Senna
 
 ---
 
@@ -21,7 +20,6 @@
 - I am currently programming in C # and I am slowly learning C ++, and I also intend to pursue a back-end career.
 - I'm 17 years old
 
----
 "If you want to be successful, you need to have total dedication, look for your last limit and do your best." - Ayrton Senna
      
 ---  
